@@ -1,0 +1,22 @@
+---
+compiled_package_info:
+  package_name: move-4
+  address_alias_instantiation:
+    std: "00000000000000000000000000000001"
+  source_digest: EA0E9EBC48E00C088338E7671C2E74EE0DFE7D0B3CD109771719C9413DE246C4
+  build_flags:
+    dev_mode: true
+    test_mode: true
+    generate_docs: false
+    generate_abis: false
+    install_dir: ~
+    force_recompilation: false
+    lock_file: ~
+    additional_named_addresses: {}
+    architecture: ~
+    fetch_deps_only: false
+    skip_fetch_latest_git_deps: false
+    bytecode_version: ~
+dependencies:
+  - MoveNursery
+  - MoveStdlib
