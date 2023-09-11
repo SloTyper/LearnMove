@@ -1,1 +1,1 @@
-# Program files of Move for Aptos. I will upadate as I learn and experiment.
+# Program files of Move for Aptos. I will update as I learn and experiment.
